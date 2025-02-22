@@ -13,7 +13,7 @@ Lost and Found Network is a web-based platform designed to help users report, se
 ## **Tech Stack**
 ### **Frontend**
 - React.js (UI Development)
-- Bootstrap / Tailwind CSS (Styling)
+- CSS (Styling)
 - Axios (API Calls)
 
 ### **Backend**
