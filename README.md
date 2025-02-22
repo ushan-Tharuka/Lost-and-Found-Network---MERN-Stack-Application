@@ -20,6 +20,6 @@ Lost and Found Network is a web-based platform designed to help users report, se
 - Node.js & Express.js (REST API)
 - MongoDB (Database)
 - JWT (Authentication)
-- Cloudinary (Image Storage - Optional)
+- Multer for image stroage
 
 
